@@ -13,6 +13,7 @@ This repository contains a collection of simple terminal projects created using 
 8. **Silent Bidding**: A silent auction bidding system.
 9. **Calculator Dictionary**: A calculator using a dictionary for operations.
 10. **Blackjack House**: A simple implementation of the Blackjack game.
+11. **Simple quiz**: A simple implementation of a quiz using OOP concepts
 
 ### Purpose
 These projects were developed as part of my learning journey to gain hands-on experience with Python programming. Feel free to explore, use, and modify the code. Note that I haven't provided detailed documentation or extensive comments for all the code, as these projects are relatively simple and intended for my practice and understanding without comprehensive commenting. This will probably help improve both my and your debugging and programming understanding skills.

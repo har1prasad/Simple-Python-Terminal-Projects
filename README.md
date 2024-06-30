@@ -12,7 +12,7 @@ This repository contains a collection of simple terminal projects created using 
 7. **Password Generator Project**: Generate random, secure passwords.
 8. **Silent Bidding**: A silent auction bidding system.
 9. **Calculator Dictionary**: A calculator using a dictionary for operations.
-10. **Blackjack House**: A simple implementation of the Blackjack game.
+10. **Blackjack House**: A simple implementation of the Blackjack game. [demands proper understanding of logic, problem solving and core concepts of programming]
 11. **Simple quiz**: A simple implementation of a quiz using OOP concepts
 
 ### Purpose

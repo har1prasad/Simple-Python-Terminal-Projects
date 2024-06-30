@@ -4,6 +4,7 @@ import os
 # Function to clear the screen
 def clear_screen():
     os.system('cls' if os.name == 'nt' else 'clear')
+    
 
 logo = r"""
 .------.            _     _            _    _            _    

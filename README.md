@@ -14,6 +14,7 @@ This repository contains a collection of simple terminal projects created using 
 9. **Calculator Dictionary**: A calculator using a dictionary for operations.
 10. **Blackjack House**: A simple implementation of the Blackjack game. [demands proper understanding of logic, problem solving and core concepts of programming]
 11. **Simple quiz**: A simple implementation of a quiz using OOP concepts
+12. **coffee maker & coffee machine**: These are 2 programs doing exactly the same function one is implemented in th procedural programming way and another one is in the Object Oriented wat.
 
 Note: To effectively implement these projects, a strong focus on problem-solving skills, logical thinking, and flowcharting is essential. These elements are crucial for designing and executing the code correctly, ensuring that each project is both functional and well-structured.
 
